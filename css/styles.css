@@ -1,14 +1,18 @@
 h1 {
   colour: blue;
   text-align: center;
+  background-color: gray;
 }
 h2 {
   color: green;
+  font-size: 45px;
   font-style: italic;
   text-align: center;
+
 }
 p {
   font-family: sans-serif;
+
 }
 ul {
   line-height: 40px;
